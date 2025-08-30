@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Backend",
+    "\\Backend\\Template-API",
+    "\\Backend\\Template-API\\Controllers",
+    "\\Frontend",
+    "\\Frontend\\src",
+    "\\Frontend\\src\\components",
+    "\\Frontend\\src\\models",
+    "\\Frontend\\src\\services"
+  ],
+  "SelectedNode": "\\Backend\\Template-API\\Controllers\\DummyEntityController.cs",
+  "PreviewInSolutionExplorer": false
+}
